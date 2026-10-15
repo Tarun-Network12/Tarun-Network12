@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tarun Kumar
 
-<!--
-**Tarun-Network12/Tarun-Network12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Network Engineer** | Chicago, IL | 8+ years across banking, telecom and enterprise IT
 
-Here are some ideas to get you started:
+I build and secure enterprise networks. This GitHub is where I turn that day job into open, free, reproducible lab projects: network automation, network security, and AI for NetOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- **Routing and switching:** BGP, OSPF, EIGRP, VXLAN, Cisco, Arista, Aruba CX
+- **Security:** Palo Alto, Check Point, Fortinet, Zscaler, Zero Trust, PCI-DSS / NIST aligned policy
+- **Ops:** SolarWinds, Splunk, NetFlow, Wireshark, ServiceNow, change management
+- **Certs:** CCNA, CCNP
+
+## Projects
+| Project | What it shows |
+|---|---|
+| [netauto-lab](https://github.com/YOUR-USERNAME/netauto-lab) | Config templating, Git backups, drift detection, CI checks |
+| firewall-rulebase-auditor (coming soon) | Shadowed and risky rule detection, risk-scored reports |
+| ai-netops-assistant (coming soon) | Local LLM + RAG + read-only MCP tools for troubleshooting |
+
+## Find me
+- Portfolio: https://YOUR-USERNAME.github.io
+- Email: tarunkumar.network@gmail.com
+
+*All projects use lab or synthetic data only. Nothing here comes from any employer.*
