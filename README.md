@@ -18,7 +18,7 @@ I build and secure enterprise networks. This GitHub is where I turn that day job
 | ai-netops-assistant (coming soon) | Local LLM + RAG + read-only MCP tools for troubleshooting |
 
 ## Find me
-- Portfolio: https://YOUR-USERNAME.github.io
+- Portfolio: https://Tarun-Network12.github.io
 - Email: tarunkumar.network@gmail.com
 
 *All projects use lab or synthetic data only. Nothing here comes from any employer.*
